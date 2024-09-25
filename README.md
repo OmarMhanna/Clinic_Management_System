@@ -5,5 +5,5 @@ Dual Modes:
   - Guest Mode: Grants guests the ability to view patient data using the patient's ID.
 
 Key Features:
-  - Unique Patient IDs ensure organized management and tracking.
-  - Efficient Data Handling using dynamic memory allocation, pointers, and data structures ensures smooth, error-free performance.
+  - Unique patient IDs ensure organized management and tracking.
+  - Efficient data handling using dynamic memory allocation, pointers, and data structures ensures smooth, error-free performance.
