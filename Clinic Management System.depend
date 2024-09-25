@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1709236466 source:d:\courses\embedded systems\projects\clinic management system\main.c
+	"CMS.h"
+
+1709066160 source:d:\courses\embedded systems\projects\clinic management system\clinic_management_system.c
+	"CLINIC_MANAGEMENT_SYSTEM.h"
+
+1709066392 d:\courses\embedded systems\projects\clinic management system\clinic_management_system.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1709235051 source:d:\courses\embedded systems\projects\clinic management system\cms.c
+	"CMS.h"
+
+1709237569 d:\courses\embedded systems\projects\clinic management system\cms.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
