@@ -338,9 +338,21 @@ void edit_Patient(patient *p){
         }
         else if(2==choice){
 
+        char tempgender[7];
+
+            for(char j=0;j<7;j++){
+
+                tempgender[j]=p[i].gender[j];
+            }
+
             printf("\nPlease enter patient's new age: ");
             scanf("%i", &p[i].age);
             printf("\nPatient's age updated successfully!\n");
+
+            for(char j=0;j<7;j++){
+
+                p[i].gender[j]=tempgender[j];
+            }
         }
         else if(3==choice){
 

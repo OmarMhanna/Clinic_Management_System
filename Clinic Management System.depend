@@ -18,3 +18,14 @@
 	<stdlib.h>
 	<string.h>
 
+1709240066 source:d:\courses\embedded systems\projects\clinic management system\clinic management system\main.c
+	"CMS.h"
+
+1727245985 d:\courses\embedded systems\projects\clinic management system\clinic management system\cms.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1727248742 source:d:\courses\embedded systems\projects\clinic management system\clinic management system\cms.c
+	"CMS.h"
+
